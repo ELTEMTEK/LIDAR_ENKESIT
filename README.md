@@ -1,4 +1,6 @@
-LIDAR ENKESIT (c) Version 1.0.0 <Alpha> 
+LIDAR ENKESIT (c) Version 1.0.0 
+
+Bu Yazılım ALFA Versiyonundadır
 
 Hakkında
 ********************************************************************
