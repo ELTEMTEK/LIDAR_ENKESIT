@@ -3,8 +3,8 @@ LIDAR ENKESIT (c) Version 1.0.0.0 (ALPHA)
 Hakkında
 ********************************************************************
 
-Uygulamayı Geliştiren (Developer)      	= Ömer KAYA
-email(company)             		= omerkaya@eltemtek.com
+Uygulamayı Geliştiren (Developer)      	= Ömer KAYA &_
+email(company)             		= omerkaya@eltemtek.com 
 tel(mobile)                		= +90 535 2089899
 Adres (Adress)             		= ELTEM-TEK A.Ş.
 			     		  Ziyabey Cad. 1419. Sokak No:14
