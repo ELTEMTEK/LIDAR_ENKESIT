@@ -1,7 +1,7 @@
 LIDAR ENKESIT (c) Version 1.0.0.0 (ALPHA)
 
 Hakkında
-********************************************************************
+**************************************************************************************
 
 Uygulamayı Geliştiren (Developer)      	= Ömer KAYA 
 email(company)             		= omerkaya@eltemtek.com 
@@ -11,9 +11,10 @@ Adres (Adress)             		= ELTEM-TEK A.Ş.
 			     		  Balgat / Çankaya / Ankara / Türkiye
 tel(company)               		= +90 312 2851383 / 187
 
-********************************************************************
+**************************************************************************************
 
 Genel Açıklama
+**************************************************************************************************************************
 
 - LIDAR Sistemi veri alımı üzerinden yapılacak olan projelendirmeler PLSCADD üzerinden gerçekleştirilmektedir. Yazılımımız
 PLSCADD üzerinden alınabilen "Yapı Listesi(Stacking Table)" ile çalışabilmektedir. 
@@ -33,3 +34,12 @@ Bu sonuç ürünler yalnış kullanım, veri alımındaki hatalar, modellerin ol
 sonuç ürünün gaarantisi verilmemektedir. 
 
 - Yapacağınız tüm sonuç ürünlerin ve karşılaşılan tüm sorunlar için lütfen hakkındaya bakınız. 
+
+**************************************************************************************************************************
+
+Değişkenler
+**************************************************************************************************************************
+
+Yazılım içerisinde kullanılan değişkenler aşağıdaki şekilde belirtilmiştir. 
+
+
